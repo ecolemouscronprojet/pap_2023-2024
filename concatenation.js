@@ -24,3 +24,12 @@ console.log(m2)
 
 
 console.log('----------------------------------------------------------------')
+
+
+
+
+const message5 = 'Hello'
+const message6 = 'World'
+
+
+console.log(`${message5} ${message6}`)
